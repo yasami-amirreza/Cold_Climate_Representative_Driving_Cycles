@@ -27,6 +27,12 @@ The goal of this project is to provide a detailed collection of driving cycles d
 
 ---
 
+## Installation
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/yasami-amirreza/Cold_Climate_Representative_Driving_Cycles.git
+
+
 ## Repository Structure
 
 ```plaintext
